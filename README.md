@@ -1,6 +1,6 @@
 # Pokémon Battle Data Visualization                                                                                                                                         
 
-This is my final project of IST 256 - Application Programming for Information Systems (Spring 2021)
+This is my final project of IST 256 - Application Programming for Information Systems (Spring 2021) at Syracuse University
 
 - A simple app for Pokémon base stats comparison (HP, Attack, Defense, and Speed) and Pokémon battle predictor using Python
 
